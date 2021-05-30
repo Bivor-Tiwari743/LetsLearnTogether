@@ -34,3 +34,7 @@ prerequsits:
               BOM,
               For more informaation on JavaScript go to https://www.w3schools.com/js/js_whereto.asp
   
+  
+  
+  help me trying to fix this code
+  https://github.com/Bivor-Tiwari743/chatbot-
